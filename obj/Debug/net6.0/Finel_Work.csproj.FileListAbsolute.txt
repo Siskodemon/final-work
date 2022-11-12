@@ -1,0 +1,15 @@
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\bin\Debug\net6.0\Finel_Work.exe
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\bin\Debug\net6.0\Finel_Work.deps.json
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\bin\Debug\net6.0\Finel_Work.runtimeconfig.json
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\bin\Debug\net6.0\Finel_Work.dll
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\bin\Debug\net6.0\Finel_Work.pdb
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\obj\Debug\net6.0\Finel_Work.csproj.AssemblyReference.cache
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\obj\Debug\net6.0\Finel_Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\obj\Debug\net6.0\Finel_Work.AssemblyInfoInputs.cache
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\obj\Debug\net6.0\Finel_Work.AssemblyInfo.cs
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\obj\Debug\net6.0\Finel_Work.csproj.CoreCompileInputs.cache
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\obj\Debug\net6.0\Finel_Work.dll
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\obj\Debug\net6.0\refint\Finel_Work.dll
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\obj\Debug\net6.0\Finel_Work.pdb
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\obj\Debug\net6.0\Finel_Work.genruntimeconfig.cache
+C:\Users\Satanik\Desktop\Учёба\Finel_Work\obj\Debug\net6.0\ref\Finel_Work.dll
